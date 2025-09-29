@@ -1,5 +1,3 @@
-# Author: Dhaval Patel. Codebasics YouTube Channel (modified & fixed)
-
 from fastapi import FastAPI, Request
 from fastapi.responses import JSONResponse
 import db_helper
